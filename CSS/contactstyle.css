@@ -1,0 +1,20 @@
+.contactheader,.contactfooter{
+	height: 100px;
+	background-color: red;
+}
+.wrapper{
+	overflow: hidden;
+}
+.info{
+	height: 150px;
+	background-color: yellow;
+	width: 55%;
+	float: left;
+}
+.profile{
+	height: 150px;
+	background-color: blue;
+	width: 45%;
+	float: right;
+
+}
